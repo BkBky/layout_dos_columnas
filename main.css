@@ -1,0 +1,30 @@
+.container {
+  margin: 0 auto;
+  width: 750px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.column1{
+  float:left; 
+  height: 300px;
+  width: 47%;
+  margin-right: 20px;
+}
+
+.column2{
+  height: 300px; 
+
+}
+
